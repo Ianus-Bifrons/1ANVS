@@ -8,7 +8,7 @@ Here are some thing about me:
 - 🌱 I’m currently learning Python as well as Italian 😤
 - 📚 I love Comics, History and Art
 - 😊 I am looking forward to participate in different competitions and coding projects
-- ✔️ You can reach me through Twitter or Email
+- ✔️ You can reach me through Twitter 
 
 
 
